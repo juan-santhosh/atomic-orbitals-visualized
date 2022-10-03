@@ -1,5 +1,5 @@
 import os
-from math import pi, sin, cos
+#from math import pi, sin, cos
 
 from periodic_table import periodic_table_list
 import atomic_orbitals
